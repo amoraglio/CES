@@ -1,4 +1,4 @@
-# CES
+
 Convex Evolutionary Search
 ==========================
 
